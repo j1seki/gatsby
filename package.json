@@ -1,0 +1,38 @@
+{
+  "name": "tmp-cpa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Plasmic app for b8JDooPSr1NwJixciRSUMn",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.2.6",
+    "@ant-design/pro-components": "^2.6.4",
+    "@plasmicapp/cli": "^0.1.325",
+    "@plasmicapp/react-web": "^0.2.313",
+    "@plasmicpkgs/antd5": "^0.0.205",
+    "@plasmicpkgs/plasmic-basic-components": "^0.0.207",
+    "@plasmicpkgs/plasmic-rich-components": "^1.0.175",
+    "gatsby": "^5.13.0",
+    "gatsby-plugin-react-helmet": "^6.13.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.3",
+    "@types/react": "^18.2.14",
+    "@types/react-dom": "^18.2.6",
+    "@types/react-helmet": "^6.1.11",
+    "typescript": "^5.1.6"
+  }
+}
